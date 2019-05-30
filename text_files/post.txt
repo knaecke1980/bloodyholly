@@ -1,0 +1,4 @@
+The post preset text is entered here. You can use the following place holders:
+[DATE]-> date of starting the poster.py in format dd.mm.yyyy
+[TABLE_POSTS] -> list of votes since last_post_vote in config.ini with author, title, link for steemit.com, preview image/link for busy.org
+[DELEGATORS] -> content of delegators.txt

@@ -1,0 +1,1 @@
+Put the account name here to not list votes to these accounts in report post.

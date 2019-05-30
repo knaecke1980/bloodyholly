@@ -1,0 +1,1 @@
+This text will posted every time a vote has been done by the program.
